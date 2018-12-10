@@ -11,6 +11,7 @@ def fibSeqIter(n):
         onePrev = curr
     return curr
 
+#finds the nth Fibonacci number recursively
 def fibSeqRecur(n):
 
     if n == 0:
