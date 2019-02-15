@@ -1,5 +1,3 @@
-
-
 #requires sorted list and key to search for
 def binarySearch(sortedList, key):
 
